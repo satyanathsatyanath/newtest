@@ -1,4 +1,4 @@
-name: Spark ML Pipeline CI
+name: Spark ML Pipeline CI.
 
 on:
   push:
